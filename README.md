@@ -6,8 +6,8 @@ I bridge the gap between technical execution and organic growth, leveraging mode
 ---
 
 ### 🛠️ Tech Stack & Expertise
-- **Marketing & Growth:** Technical SEO, Organic Growth, AI Workflows
-- **Development:** JavaScript, TypeScript, HTML5/CSS3
+- **Marketing & Growth:** Traditional SEO, AEO, GEO, Organic Growth
+- **Development:** TypeScript, HTML5/CSS3
 - **Platforms:** Git, GitHub, Modern Web Tools
 
 ---
@@ -15,8 +15,9 @@ I bridge the gap between technical execution and organic growth, leveraging mode
 ### 🌐 Connect with Me
 - 🌐 **Website:** [fluxoseo.lovable.app](https://fluxoseo.lovable.app)
 - 💼 **LinkedIn:** [linkedin.com/in/riyadhasaan](https://www.linkedin.com/in/riyadhasaan)
-- 📧 **Email:** riyadhasaanofficial@gmail.com
--                hellofluxo.bd@gmail.com
+- 📧 **Personal Email:** riyadhasaanofficial@gmail.com
+- 💼 **Business Email:** hellofluxo.bd@gmail.com
+- 💬 **WhatsApp Business:** [+880 1329-554962](https://wa.me/8801329554962)
 
 <!--
 **riyad-stack/riyad-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
