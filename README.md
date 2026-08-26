@@ -20,7 +20,7 @@ I bridge the gap between technical execution and organic growth, leveraging mode
 - 💬 **WhatsApp Business:** [+880 1329-554962](https://wa.me/8801329554962)
 
 <!--
-**riyad-stack/riyad-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**riyad-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
