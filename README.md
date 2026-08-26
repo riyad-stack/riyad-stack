@@ -1,6 +1,6 @@
 # Hi there, I'm Riyad Hasan Al Mamun 👋
 
-### 🤖 AI-Powered SEO Specialist & Organic Growth Marketer
+### 🤖 AI-Powered SEO Consultant & Organic Growth Marketer
 I bridge the gap between technical execution and organic growth, leveraging modern tech stacks and AI tools to scale web visibility.
 
 ---
