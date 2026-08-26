@@ -15,7 +15,8 @@ I bridge the gap between technical execution and organic growth, leveraging mode
 ### 🌐 Connect with Me
 - 🌐 **Website:** [fluxoseo.lovable.app](https://fluxoseo.lovable.app)
 - 💼 **LinkedIn:** [linkedin.com/in/riyadhasaan](https://www.linkedin.com/in/riyadhasaan)
-- 📧 **Email:** riyadhasaanofficial@gmail.com | hellofluxo.bd@gmail.com
+- 📧 **Email:** riyadhasaanofficial@gmail.com
+-                hellofluxo.bd@gmail.com
 
 <!--
 **riyad-stack/riyad-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
